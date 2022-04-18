@@ -1,0 +1,1 @@
+SELECT * from EMP3 WHERE Country LIKE 'S%';
