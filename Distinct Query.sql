@@ -1,0 +1,1 @@
+SELECT Distinct Country from EMP3; 
