@@ -1,0 +1,1 @@
+SELECT *FROM EMP3 WHERE  Country='sweden' and( City='Lulea' or City='Stocholm');
