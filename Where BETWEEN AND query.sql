@@ -1,0 +1,1 @@
+SELECT Country from EMP3 WHERE CustomerID BETWEEN 1 and 2;
